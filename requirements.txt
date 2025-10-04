@@ -2,4 +2,6 @@ tensorflow
 transformers
 keras
 matplotlib
+torch
+
 
