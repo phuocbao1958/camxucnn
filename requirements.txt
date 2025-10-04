@@ -4,6 +4,12 @@ keras
 matplotlib
 torch
 tf-keras
+streamlit
+pandas
+numpy
+scikit-learn
+statsmodels
+
 
 
 
